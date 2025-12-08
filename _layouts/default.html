@@ -40,8 +40,8 @@
     <div class="wrapper">
       <nav>
         <ul>
-            {% for page in nav-pages %}
-                <a href="{{ page.url }}">{{ page.title }}</a>
+            {% for page in site.nav-pages %}
+                <a href="{{ page.url }}">{{ page.page-title }}</a>
             {% endfor %}
         </ul>
       </nav>
