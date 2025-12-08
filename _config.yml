@@ -7,3 +7,9 @@ nav-pages:
     url: "/"
   - title: code_review
     url: "/code_review.html"
+  - title: enhancement_one
+    url: "/enhancement_one.html"
+  - title: enhancement_two
+    url: "/enhancement_two.html"
+  - title: enhancement_three
+    url: "/enhancement_three.html"
