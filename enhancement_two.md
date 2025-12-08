@@ -6,7 +6,7 @@ layout: default
 
 <iframe
     width="100%"
-    height=auto
+    height="auto"
     src="https://www.youtube.com/embed/QmqZBXuhJKI"
     title="Code Review Narration"
     allowfullscreen>
