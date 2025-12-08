@@ -8,12 +8,12 @@ header {
 }
 
 #banner {
-  border: #DEB887;
-  background: #8B4513;
+  border: 1px solid #8B4513;
+  background: #DEB887;
 
   a.button.fork {
     border: 1px solid #8b4513;
-    background: linear-gradient(rgb(222, 184, 135), rgb(139, 69, 19));
+    background: linear-gradient(rgb(139, 69, 19), rgb(222, 184, 135));
     background-color: #DEB887;
   }
 }
