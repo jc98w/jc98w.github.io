@@ -6,4 +6,4 @@ nav-pages:
   - title: intro
     url: "/"
   - title: code_review
-    url: "/code_review.md"
+    url: "/code_review.html"
