@@ -4,4 +4,8 @@ layout: default
 
 # Enhancement One
 
-<iframe src="https://youtu.be/6QbLOHwzdMk" title="Enhancement One Narration">
+<iframe width=auto
+        height=auto
+        src="https://www.youtube.com/embed/6QbLOHwzdMk"
+        title="Enhancement One Narration">
+</iframe>
