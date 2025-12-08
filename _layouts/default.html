@@ -41,7 +41,7 @@
       <nav>
         <ul>
             {% for page in nav-pages %}
-                <a href=page.url>page.title</a>
+                <a href="{{ page.url }}">{{ page.title }}</a>
             {% endfor %}
         </ul>
       </nav>
