@@ -1,3 +1,9 @@
 theme: jekyll-theme-leap-day
 title: jc98w ePortfolio
 description: CS 499 ePortfolio
+
+nav-pages:
+  - title: intro
+    url: "/"
+  - title: code_review
+    url: "/code_review.md"
