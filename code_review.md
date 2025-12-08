@@ -4,4 +4,9 @@ layout: default
 
 # Code Review
 
-Add link to video here
+<iframe
+    width=auto
+    height=auto
+    src="https://www.youtube.com/embed/ikWrz5R4tqo"
+    title="Code Review Narration">
+</iframe>
