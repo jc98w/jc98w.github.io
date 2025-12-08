@@ -7,13 +7,18 @@ header {
   background: #228833;
 }
 
+body {
+  background: #DEB887;
+}
+
 #banner {
   border: 1px solid #8B4513;
   background: #DEB887;
 
   a.button.fork {
     border: 1px solid #8b4513;
-    background: linear-gradient(rgb(139, 69, 19), rgb(222, 184, 135));
+    background: linear-gradient(rgb(139, 69, 19), rgb(200, 100, 50));
     background-color: #DEB887;
+    color: #f3f3f3;
   }
 }
