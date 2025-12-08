@@ -19,6 +19,9 @@ body {
     border: 1px solid #8b4513;
     background: linear-gradient(rgb(139, 69, 19), rgb(200, 100, 50));
     background-color: #DEB887;
-    color: #f3f3f3;
+    
+    strong {
+      color: #f3f3f3;
+    }
   }
 }
