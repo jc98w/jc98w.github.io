@@ -1,13 +1,6 @@
 ---
-layout: default
+layout: video_page
+title: "Enhancement One"
+video_link: "https://www.youtube.com/embed/6QbLOHwzdMk"
+video_title: "Enhancement One Narration"
 ---
-
-# Enhancement One
-
-<iframe 
-    width="100%"
-    height="auto"
-    src="https://www.youtube.com/embed/6QbLOHwzdMk"
-    title="Enhancement One Narration"
-    allowfullscreen>
-</iframe>

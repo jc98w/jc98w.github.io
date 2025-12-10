@@ -1,13 +1,6 @@
 ---
-layout: default
+layout: video_page
+title: "Enhancement Two"
+video_link: "https://www.youtube.com/embed/QmqZBXuhJKI"
+video_title: Enhancement Two Narration
 ---
-
-# Enhancement Two
-
-<iframe
-    width="100%"
-    height="auto"
-    src="https://www.youtube.com/embed/QmqZBXuhJKI"
-    title="Code Review Narration"
-    allowfullscreen>
-</iframe>
