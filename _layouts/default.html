@@ -32,8 +32,8 @@
           <div class="downloads">
             <span>Downloads:</span>
             <ul>
-              <li><a href="assets/downloads/ChessApp.zip" class="button">ZIP</a></li>
-              <li><a href="assets/downloads/ChessApp.tar" class="button">TAR</a></li>
+              <li><a href="assets/downloads/ChessApp.zip" class="button">zip</a></li>
+              <li><a href="assets/downloads/ChessApp.tar" class="button">tar.gz</a></li>
             </ul>
           </div>
         {% endif %}
@@ -43,7 +43,7 @@
       <nav>
         <ul>
             {% for page in site.nav-pages %}
-                <h3><a href="{{ page.url }}">{{ page.page-title }}<br></a></h3>
+                <li><h3><a href="{{ page.url }}">{{ page.page-title }}</a></h3></li>
             {% endfor %}
         </ul>
       </nav>
