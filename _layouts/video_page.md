@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h>{{ page.title }}</h>
+<h1>{{ page.title }}</h1>
 
 <iframe
     src={{ page.video_link }}
