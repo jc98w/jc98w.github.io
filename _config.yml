@@ -1,5 +1,6 @@
 theme: jekyll-theme-leap-day
 title: jc98w ePortfolio
+show_downloads: true
 description: CS 499 ePortfolio
 
 nav-pages:
