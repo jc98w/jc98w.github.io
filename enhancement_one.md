@@ -5,8 +5,8 @@ video_link: "https://www.youtube.com/embed/6QbLOHwzdMk"
 video_title: "Enhancement One Narration"
 ---
 
-<img.game_example src="assets/images/lan_menu.png" alt="Chess app local area network menu">
-<img.game_example src="assets/images/lan_match.png" alt="Active match between two players. White has walked into a fool's mate.">
+<img class=game_example src="assets/images/lan_menu.png" alt="Chess app local area network menu">
+<img class=game_example src="assets/images/lan_match.png" alt="Active match between two players. White has walked into a fool's mate.">
 <p>
     I used the same project throughout each of the enhancements, but this enhancement turned out to be the most ambitious. In the spring of this year, I wrote a chess program in Python as a fun side project. This project immediately jumped into my mind for many reasons. First off, this project was enjoyable to create and refine as chess is something that I have an interest in. As it relates to software development, I liked this project because it highlights many different components working together. The project contains chess logic, an interactive GUI, threading, algorithms, and data usage. It was also a prime candidate for enhancement as it had and continues to have room for development.
 </p>
