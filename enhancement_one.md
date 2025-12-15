@@ -5,8 +5,15 @@ video_link: "https://www.youtube.com/embed/6QbLOHwzdMk"
 video_title: "Enhancement One Narration"
 ---
 
-<img class=game_example src="assets/images/lan_menu.png" alt="Chess app local area network menu">
-<img class=game_example src="assets/images/lan_match.png" alt="Active match between two players. White has walked into a fool's mate.">
+<figure>
+    <img class=game_example src="assets/images/lan_menu.png" alt="Chess app local area network menu">
+    <figcaption>The chess app's new local area network menu. The instance on the left has hosted a match that is now visable and available for the player on the right!</figcaption>
+</figure>
+<figure>
+    <img class=game_example src="assets/images/lan_match.png" alt="Active match between two players. White has walked into a fool's mate.">
+    <figcaption>Two instances of the application playing a match. White has walked into a fool's mate!</figcaption>
+</figure>
+
 <p>
     I used the same project throughout each of the enhancements, but this enhancement turned out to be the most ambitious. The initial program opened immediately to a chess match and had no ability to network. A user could make moves or give a bot control of one or both sides. The goal of this enhancement was to give the program networking capabilities without involving a dedicated server. My initial plan involved using server frameworks like Flask or Django to handle communication but before long, I realized that this approach was awkward and my desired outcome was better achieved through sockets. I had next to no experience working directly with sockets, but I ended up learning a lot and enjoying the process.
 </p>
