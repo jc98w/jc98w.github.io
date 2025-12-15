@@ -4,7 +4,7 @@ show_downloads: true
 description: CS 499 ePortfolio
 
 nav-pages:
-  - page-title: Introduction
+  - page-title: "Self Assessment"
     url: "/"
   - page-title: "Code Review"
     url: "/code_review.html"
