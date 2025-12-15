@@ -4,6 +4,7 @@ title: "Enhancement One"
 video_link: "https://www.youtube.com/embed/6QbLOHwzdMk"
 video_title: "Enhancement One Narration"
 ---
+> There is an enhancement one branch in the GitHub repo linked to the "View On GitHub" button.
 
 <figure>
     <img class=game_example src="assets/images/lan_menu.png" alt="Chess app local area network menu">
