@@ -7,11 +7,11 @@ video_title: "Enhancement One Narration"
 
 <figure>
     <img class=game_example src="assets/images/lan_menu.png" alt="Chess app local area network menu">
-    <figcaption>The chess app's new local area network menu. The instance on the left has hosted a match that is now visable and available for the player on the right!</figcaption>
+    <figcaption>*The chess app's new local area network menu. The instance on the left has hosted a match that is now visable and available for the player on the right!*</figcaption>
 </figure>
 <figure>
     <img class=game_example src="assets/images/lan_match.png" alt="Active match between two players. White has walked into a fool's mate.">
-    <figcaption>Two instances of the application playing a match. White has walked into a fool's mate!</figcaption>
+    <figcaption>*Two instances of the application playing a match. White has walked into a fool's mate!*</figcaption>
 </figure>
 
 <p>
