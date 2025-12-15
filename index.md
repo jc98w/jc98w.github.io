@@ -3,7 +3,7 @@ layout: default
 title: Self Assessment
 ---
 
-# Introduction
+# Self Assessment
 
 <p>
   My computer science journey began early in my teen years. Things have come a long way since I was writing simple JavaScript games and making a program to predict March Madness games. The step-by-step computation thinking required for software engineering came naturally, but dedicated study and experience has allowed me to develop a range of other beneficial skills and habits. Coursework covered a wide range of core computer science skills. Some of these core skills include understanding agile workflow, working with data and algorithms, and secure development.
