@@ -5,6 +5,9 @@ video_link: "https://www.youtube.com/embed/QmqZBXuhJKI"
 video_title: Enhancement Two Narration
 ---
 
+> There is an enhancement two branch in the GitHub repo linked to the "View On GitHub" button.
+>
+ 
 <p>
     This enhancement was focused on enhancing the built-in chess bot specifically by giving it access to book moves. The original chess bot operated by storing the results of games in a database for reference in future games. Succinctly, moves resulting in a win are more likely to be used again whereas moves resulting in a loss are less likely to be used again. This approach takes time to train and has credit assignment issues. To address this and help the bot through the opening stages of the game, I created a system that allowed it to reference book moves.
 </p>
