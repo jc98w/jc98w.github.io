@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS-499 ePortfolio
+title: Self Assessment
 ---
 
 # Introduction
